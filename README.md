@@ -1,6 +1,6 @@
 👋 Olá, Seja Bem vindo(a) ao meu perfil:
 -
-Me chamo Amanda Modesto, tenho 22 anos e moro em Brasília, Distrito Federal. Sou estudante de Análise e Desenvolvimento de Sistemas, sou uma pessoa criativa, apaixonada por tecnologias e em buscar e criar formas de facilitar nosso dia a dia por meio da mesma.
+Me chamo Amanda Modesto, tenho 23 anos e moro em Brasília, Distrito Federal. Sou estudante de Análise e Desenvolvimento de Sistema, apaixonada por tecnologias, criativa e na busca por novas formas de facilitar não só o nosso dia a dia mas também souluções para o futuro melhor com mais conscientização e oportunidades.
 -
 ✔️ Atributos/Habilidades:
 -
@@ -8,15 +8,12 @@ Me chamo Amanda Modesto, tenho 22 anos e moro em Brasília, Distrito Federal. So
 
 . Idiomas: Inglês Avançado; Francês e Espanhol Básicos.
 
-. Pacote Office: Word e Power Point Intermediários.
+. Pacote Office Intermediário.
 -
-🌱 Aprendendo/Growing:
+🌱 Aprendendo:
 -
-. Programação: Python, Javascript.
+. Programação Back-end: Python e Django. 
 
-. Data Science : Pandas, Seaborn, Numpy, Matplotlib, Scikit-learn.
-
-. Pacote Office: Excel.
 -
 🗺️ Redes Sociais:
 -
