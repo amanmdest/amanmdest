@@ -4,7 +4,7 @@ Me chamo Amanda Modesto, tenho 23 anos e moro em Brasília, Distrito Federal. So
 -
 ✔️ Atributos/Habilidades:
 -
-. Desenvolvimento: HTML, CSS e uma boa base de lógica de programação.
+. Desenvolvimento: HTML, CSS e lógica de programação.
 
 . Idiomas: Inglês Avançado; Francês e Espanhol Básicos.
 
@@ -12,7 +12,8 @@ Me chamo Amanda Modesto, tenho 23 anos e moro em Brasília, Distrito Federal. So
 -
 🌱 Aprendendo:
 -
-. Programação Back-end: Python e Django.
+. Programaçãp Back-end: Python e Django.
+
 -
 🗺️ Redes Sociais:
 -
