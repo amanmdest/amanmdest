@@ -12,7 +12,7 @@ Me chamo Amanda Modesto, tenho 23 anos e moro em Brasília, Distrito Federal. So
 -
 🌱 Aprendendo:
 -
-. Programaçãp Back-end: Python e Django.
+. Programação Back-end: Python e Django.
 -
 🗺️ Redes Sociais:
 -
