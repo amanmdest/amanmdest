@@ -1,6 +1,8 @@
 🧚‍♂️ Intro:
 -
-Aman Modesto, 23 anos. Estudante de programação, focando em Python, Django e Back-end. Formado em Análise e Desenvolvimento de Sistemas, atualmente morando no entorno do DF - aonde me ponho a pensar que os caminhos podem ser variados e os sonhos devem ser mais constantes - prezando cada vez mais pela vida, a memória e o respeito. As tecnologias que nos trazem maior beneficios são as ancestrais, e sobre as demais: aprendizagem em honra e crescimento de um caminho, ainda que utópico. 
+Aman Modesto, 23 anos. Escritor não só de códigos, ainda um Padawan Estudante de programação, foco atual em Python, Django e Back-end. Formado em Análise e Desenvolvimento de Sistemas, trabalhando como atendente em um orgão de justiça do DF. Habitante orgulhoso do entorno do DF, em uma cidade chamada Valparaíso de Goiás, ou mais especificamente um ser encantado do Jardim Céu Azul - aonde me ponho a pensar que os caminhos podem ser variados e os sonhos, mais constantes - questiono o caminho do tradicional, prefiro dúvidas que criam novos caminhos, à certezas que aprisionam individuos. De verdade o que quero é criar pontes e reconstruir nascentes, tenho determinação para isso. Prezando cada vez mais pela vida, a memória e o respeito. As tecnologias que nos trazem maior beneficios são as ancestrais, e sobre as demais: aprendizagem em honra e crescimento de um caminho saúdavel, ainda que utópico, ainda que hibrido, ainda que científico, ainda que fisiologico.
+
+**não tenha medo: é melhor ter muito caminho a percorrer. Do que não percorrer nenhum.**
 
 :house_with_garden: Em casa:
 -
