@@ -2,7 +2,7 @@
 -
 Aman Modesto, 23 anos. Estudante de programação, focando em Python, Django e Back-end. Formado em Análise e Desenvolvimento de Sistemas, atualmente morando no entorno do DF - aonde me ponho a pensar que os caminhos podem ser variados e os sonhos devem ser mais constantes - prezando cada vez mais pela vida, a memória e o respeito. As tecnologias que nos trazem maior beneficios são as ancestrais, e sobre as demais: aprendizagem em honra e crescimento de um caminho, ainda que utópico. 
 
-✔️ Atributos/Habilidades:
+🛖 Em casa:
 -
 - Desenvolvimento: HTML, CSS e lógica de programação.
 
@@ -10,7 +10,7 @@ Aman Modesto, 23 anos. Estudante de programação, focando em Python, Django e B
 
 - Pacote Office Intermediário.
 
-🌱 Aprendendo:
+🌱 Growing:
 -
 - Programação Back-end: Python e Django.
 
