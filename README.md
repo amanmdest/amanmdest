@@ -1,6 +1,7 @@
-Perfil:
+🧚‍♂️ Intro:
 -
-Me chamo Amanda Modesto, tenho 23 anos e moro em Brasília, Distrito Federal. Sou estudante de Análise e Desenvolvimento de Sistema, extremamente criativa e na busca por novas formas de facilitar não só o nosso dia a dia mas também souluções que proporcionam um futuro melhor com mais conscientização e oportunidades para aqueles que precisam.
+Aman Modesto, 23 anos. Estudante de programação, focando em Python, Django e Back-end. Formado em Análise e Desenvolvimento de Sistemas, atualmente morando no entorno do DF - aonde me ponho a pensar que os caminhos podem ser variados e os sonhos devem ser mais constantes - prezando cada vez mais pela vida, a memória e o respeito. As tecnologias que nos trazem maior beneficios são as ancestrais, e sobre as demais: aprendizagem em honra e crescimento de um caminho, ainda que utópico. 
+
 --
 ✔️ Atributos/Habilidades:
 -
