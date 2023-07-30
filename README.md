@@ -1,4 +1,4 @@
-👋 Olá, Seja Bem vindo(a) ao meu perfil:
+Perfil:
 -
 Me chamo Amanda Modesto, tenho 23 anos e moro em Brasília, Distrito Federal. Sou estudante de Análise e Desenvolvimento de Sistema, extremamente criativa e na busca por novas formas de facilitar não só o nosso dia a dia mas também souluções que proporcionam um futuro melhor com mais conscientização e oportunidades para aqueles que precisam.
 --
