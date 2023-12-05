@@ -2,7 +2,7 @@
 -
 Aman Modesto, 25 anos. Escritor (não só de códigos), cedo aprendi a desfrutar de alianças com as mais diversas e belas teconologias e linguagens. Nos dias de hoje - entre muitas batalhas - sigo caminho como um padawan(aprendiz) da programação com foco no queridinho Python e seu framework Django, enquanto desvendo mistérios do universo Back-end. Formado em Análise e Desenvolvimento de Sistemas, trabalhando como atendente em um orgão da Justiça, em Brasília. Habitante orgulhoso do entorno do DF, Valparaíso de Goiás. Questiono o caminho do tradicional e prefiro dúvidas que criam novas estradas à certezas que aprisionam narrativas.  
 
-:japanese_castle: Em casa:
+🏡 Em casa:
 -
 - Desenvolvimento: HTML, CSS e lógica de programação.
 
