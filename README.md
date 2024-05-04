@@ -20,7 +20,7 @@ Hello visitor, 🌠 me llamo Aman Modesto!
 -
 > I've been moving thru the domain of dev technologys since 2021, only that it hasn't been for all these [3] years on a roll. I made, for now, less checkpoints on the technical skills journey than I wished for, but not more than what I'm truly capable.
 
-> Also, I believe that more than true.. Wait for it.. Real and Power are the aspects of human recreation, on not only survive or achive but to immerge on the way of any art, functional + concerning and development. And deploy.
+> Also, I believe that more than true.. Wait for it.. Real and Power are the aspects of human recreation, on not only survive or achive but to immerge on the way of any art, functional + concerning development. And deploy.
 
 ❤️ Let's Connect!
 -
