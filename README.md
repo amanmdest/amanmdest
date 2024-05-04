@@ -7,21 +7,14 @@ Hello visitor, 🌠 me llamo Aman Modesto!
 
 [![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanmdest&show_icons=true&theme=radical&hide_rank=false)](https://github.com/amanmdest/github-readme-stats)
 
-🔧 Tech Stack
--
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTMX](https://img.shields.io/badge/%3C/%3E%20htmx-3D72D7?style=for-the-badge&logo=mysl&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-<br>
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-
+<div>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width=30/>
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django" width="30"/>
+	<img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" alt="pytest" title="pytest" width="30"/>
+	<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" title="SQLite" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="HTML5" width="30"/>
+</div>
 
 🕵️‍♀️ Moi?
 -
@@ -29,9 +22,9 @@ Hello visitor, 🌠 me llamo Aman Modesto!
 
 > Also, I believe that more than true.. Wait for it.. Real and Power are the aspects of human recreation, on not only survive or achive but to immerge on the way of any art, functional + concerning and development. And deploy.
 
-🌐📫🤝 Let's Connect!
+❤️ Let's Connect!
 -
-> Contact me, I'm very found of the idea of communities, diversity and open source development, let's build and learn thogeter:
+Contact me, I'm very found of the idea of communities, diversity and open source development, let's build and learn together
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-modesto-196a161b7/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@amanmdest/)
 
