@@ -1,26 +1,41 @@
-🧚‍♂️ Intro:
+Hello visitor, 🌠 me llamo Aman Modesto!
 -
-Aman Modesto, 25 anos. Escritor (não só de códigos), cedo aprendi a desfrutar de alianças com as mais diversas e belas teconologias e linguagens. Nos dias de hoje - entre muitas batalhas - sigo caminho como um padawan(aprendiz) da programação com foco no queridinho Python e seu framework Django, enquanto desvendo mistérios do universo Back-end. Formado em Análise e Desenvolvimento de Sistemas, trabalhando como atendente em um orgão da Justiça, em Brasília. Habitante orgulhoso do entorno do DF, Valparaíso de Goiás. Questiono o caminho do tradicional e prefiro dúvidas que criam novas estradas à certezas que aprisionam narrativas.  
 
-🏡 Em casa:
+- 👨‍🎓 Graduated at [Faculdade Anhanguera](https://www.linkedin.com/school/anhanguera-educacional-sa/?originalSubdomain=br), Brazil
+- 👨‍💻 Backend developer sharing experiences and learnings 
+- 🥾 Backpacked across more than half of Brazil States, Peru and Bolivia
+
+[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanmdest&show_icons=true&theme=radical&hide_rank=false)](https://github.com/amanmdest/github-readme-stats)
+
+🔧 Tech Stack
 -
-- Desenvolvimento: HTML, CSS e lógica de programação.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTMX](https://img.shields.io/badge/%3C/%3E%20htmx-3D72D7?style=for-the-badge&logo=mysl&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+<br>
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-- Idiomas: Inglês Avançado; Francês e Espanhol Básicos.
 
-- Pacote Office Intermediário.
 
-🌱 Growing:
+🕵️‍♀️ Moi?
 -
-- Programação Back-end: Python e Django.
+> I've been moving thru the domaing of dev technologys since 2021, only that it hasn't been for all these [3] years on a roll. I made, for now, less checkpoints on the technical skills journey than I wished for, but not more than what I'm truly capable.
 
-🗺️ Redes Sociais:
+> Also, I believe that more than true.. Wait for it.. Real and Power are the aspects of human recreation, on not only survive or achive but to immerge on the way of any art, functional + concerning and development | selfdevelopment | selfless development. And deploy.
+
+🌐📫🤝 Let's Connect!
 -
-[<img src= "https://img.shields.io/badge/amanda_velozo2@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>](mailto:"amanda_velozo2@hotmail.com") 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amanda-modesto-196a161b7/)
--
+> Contact me, I'm very found of the idea of communities, diversity and open source development, let's build and learn thogeter:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-modesto-196a161b7/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@amanmdest/)
 
 <!---
-AMND22/AMND22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+amanmdest/aman_modesto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
