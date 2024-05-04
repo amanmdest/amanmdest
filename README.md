@@ -1,9 +1,9 @@
 Hello visitor, 🌠 me llamo Aman Modesto!
 -
 
-- 👨‍🎓 Graduated at [Faculdade Anhanguera](https://www.linkedin.com/school/anhanguera-educacional-sa/?originalSubdomain=br), Brazil
-- 👨‍💻 Software Developer focusing on API projects with Python and Django
-- 🥾 Backpacked across more than half of Brazil States, plus Peru and Bolivia
+- 👨‍💻 Software Developer focusing on API projects with Python and Django(Today)
+- 👨‍🎓 Graduated at [Faculdade Anhanguera](https://www.linkedin.com/school/anhanguera-educacional-sa/?originalSubdomain=br), Brazil(2022)
+- 🥾 Backpacked across more than half of Brazil States, plus Peru and Bolivia(2017 - 2020)
 
 [![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanmdest&show_icons=true&theme=radical&hide_rank=false)](https://github.com/amanmdest/github-readme-stats)
 
