@@ -11,7 +11,9 @@ Hello visitor, 🌠 me llamo Aman Modesto!
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width=30/>
 	<img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django" width="30"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="30"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="HTML5" width="30"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="30"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JS" title="JS" width="30"/>
+          
 </div>
 
 🕵️‍♀️ Moi?
@@ -20,9 +22,9 @@ Hello visitor, 🌠 me llamo Aman Modesto!
 
 > Also, I believe that more than true. Wait for it... Real and Power are the aspects of human + tech recreation, on not only the survive or the achive but the immerged way of creating, connecting, making art - functionally with the concerning development. And deploy.
 
-❤️ Let's Connect!
+🌐 Let's Connect!
 -
-Contact me, I'm very found of the idea of communities, diversity and open source development, let's build and learn together
+Contact me, Althoug I have a lot to learn I'm confident on the way of building and trading as communities: troubleshooting + making new ways for diversity + open source development.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-modesto-196a161b7/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@amanmdest/)
 
