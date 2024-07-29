@@ -10,7 +10,7 @@ Hello visitor, 🌠 me llamo Aman Modesto!
 <div>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width=30/>
 	<img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django" width="30"/>
- 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="FastAPI" title="FastAPI" width="30"/>          
+ 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="30"/>          
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JS" title="JS" width="30"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="30"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="30"/>
