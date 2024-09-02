@@ -19,7 +19,7 @@ Hello visitor, 🌠 me llamo Aman Modesto!
 
 🕵  Moi
 -
-> I've been moving thru the domain of dev technologys since 2021, making so far less checkpoints on the technical skills journey than I truly wish for, that being said I really love each achviement by building bricks of concepts or understanding exercises resolutions, passing tests, runing codes with more and more efficiency.    
+> I've been moving thru the domain of dev technologys since 2021, making so far less checkpoints on the technical skills journey than I truly wish for. That being said I really love each builded brick of concept and the extended practice for the long run: really understanding exercises/issues resolutions, documenting pieces of useful and practical information, passing and repassing tests, runing codes with more and more efficiency.    
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-modesto-196a161b7/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@amanmdest/)
 
