@@ -1,8 +1,8 @@
 Hello visitor, 🌠 me llamo Aman Modesto!
 -
 
-- 👨‍💻 Software Developer focusing on API projects with Python, Django and FastAPI(Today)
-- 👨‍🎓 Graduated at [Faculdade Anhanguera](https://www.linkedin.com/school/anhanguera-educacional-sa/?originalSubdomain=br), Brazil(2022)
+- 👨‍💻 Software Developer focusing on API projects with Python, Django and FastAPI(Now)
+- 👨‍🎓 Graduated at [Faculdade Anhanguera](https://www.linkedin.com/school/anhanguera-educacional-sa/?originalSubdomain=br), Brazil(2021 - 2023)
 - 🥾 Backpacked across more than half of Brazil States, plus Peru and Bolivia(2017 - 2020)
 
 [![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanmdest&show_icons=true&theme=radical&hide_rank=false)](https://github.com/amanmdest/github-readme-stats)
@@ -17,11 +17,9 @@ Hello visitor, 🌠 me llamo Aman Modesto!
           
 </div>
 
-🕵️‍♀️ Moi?
+🕵  Moi
 -
-> I've been moving thru the domain of dev technologys since 2021, only that it hasn't been for all these [3] years on a roll. I made, for now, less checkpoints on the technical skills journey than I wished for, but not more than what I'm truly capable.
-
-> Also, I believe that more than true. Wait for it... Real and Power are the aspects of human + tech recreation, on not only the survive or the achive but the immerged way of creating, connecting, making art - functionally with the concerning development. And deploy.
+> I've been moving thru the domain of dev technologys since 2021, making so far less checkpoints on the technical skills journey than I truly wish for, that being said I really love each achviement by building bricks of concepts or understanding exercises resolutions, passing tests, runing codes with more and more efficiency.    
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-modesto-196a161b7/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@amanmdest/)
 
