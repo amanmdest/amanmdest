@@ -23,10 +23,6 @@ Hello visitor, 🌠 me llamo Aman Modesto!
 
 > Also, I believe that more than true. Wait for it... Real and Power are the aspects of human + tech recreation, on not only the survive or the achive but the immerged way of creating, connecting, making art - functionally with the concerning development. And deploy.
 
-🌐 Let's Connect!
--
-Contact me, Although I have a lot to learn I'm confident on the way of building and trading as communities: troubleshooting + making new ways for diversity + open source development.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-modesto-196a161b7/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@amanmdest/)
 
 <!---
