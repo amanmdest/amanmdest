@@ -1,7 +1,7 @@
 Aman Modesto
 -
 
-- I'm twenty-six now, learning my way thru softwares and web development during any available time.
+- I'm twenty-six now, learning my way through softwares and web development during any available time.
 - Graduated at [Faculdade Anhanguera](https://www.linkedin.com/school/anhanguera-educacional-sa/?originalSubdomain=br) - System Analysis and Development, Brazil(2021 - 2023)
 
 🛠️ tools
