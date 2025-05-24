@@ -4,6 +4,7 @@
 - Ambition to be of great assistance to the community and make valuable products!
 - South america traveller - juggling and creating.
 - ADS Anhanguera Graduated - Brasília, DF
+***
 
 <details>
   <summary> 🧮 Skills! </summary>
@@ -12,7 +13,7 @@
 </details>
 
 <details>
-  <summary>👋 Find me: </summary>
+  <summary>👋 Find me </summary>
 
 	Let's talk about development, puzzles, books, philosophy, mangas, songs and more!!!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-modesto-196a161b7/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@amanmdest/)
