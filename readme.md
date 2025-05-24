@@ -1,22 +1,26 @@
-<h1>Aman Modesto</h1>
+# Hello there! Je suis Aman, aka amanzí! 🐦 
 
-- I'm twenty-six now, learning my way through softwares and web development during any available time.
+- Mostly BackEnd development, but with some FrontEnd and DevOps from time to time.
+- Ambition to be of great assistance to the community and make valuable products!
+- South america traveller - juggling and creating.
+- ADS Anhanguera Graduated - Brasília, DF
 
-- Graduated at [Faculdade Anhanguera](https://www.linkedin.com/school/anhanguera-educacional-sa/?originalSubdomain=br) - System Analysis and Development, Brazil(2021 - 2023)	
-<h2>🛠️ Tools: </h2>
-<div>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width=30/>
-	<img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django" width="30"/>
- 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="30"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="35"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="Postgresql" title="Postgresql" width="30" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="40"/>
-	<!--
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JS" width="25"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="25"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="25"/>
-  	-->
-</div>
-<h2>🌐 Network:</h2>
+<details>
+  <summary> 🧮 Skills! </summary>
 	
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+</details>
+
+<details>
+  <summary>👋 Find me: </summary>
+
+	Let's talk about development, puzzles, books, philosophy, mangas, songs and more!!!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-modesto-196a161b7/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@amanmdest/)
+</details>
+
+<div style="display: flex; justify-content: center;">
+	
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanmdest&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJxZGw0amlpNHh6Mnk2YmJwbDJvcHg2b2R6YXZ5aGllNmxzYXBjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkCDv7CIK8d2M/giphy.gif" width="250" height="200" alt="Image description">
+</div>
