@@ -1,4 +1,4 @@
-# Hello there! I'm Aman, aka manzí! 🪶
+# Hello there! I'm Aman, aka manzí!
 - Mostly BackEnd development, and some FrontEnd.
 - Ambition to be of great assistance to the community and make valuable products!
 - ADS Anhanguera Graduated - Brasília, DF
@@ -11,7 +11,7 @@
 <details>
   <summary>👋 Find me </summary>
 
-	We can share and talk about development, also create really nice things together!
+	We can share + talk about development, and also create really nice things together!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-modesto-196a161b7/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@amanmdest/)
 </details>
 <div style="display: flex; justify-content: space-around;">
