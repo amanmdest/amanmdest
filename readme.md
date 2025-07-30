@@ -2,7 +2,7 @@
 - Mostly BackEnd development, and some FrontEnd.
 - Ambition to be of great assistance to the community and make valuable products!
 - ADS Anhanguera Graduated - Brasília, DF
-- Bassist and South America traveller-juggler 🤹
+- Bassist and South America juggler-traveller 🤹
 <details>
   <summary> 🛠️ Crafting! </summary>
 	
