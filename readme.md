@@ -1,6 +1,5 @@
 # Hello there! I'm Aman, aka manzí!
 - Mostly BackEnd development, and some FrontEnd.
-- Ambition to be of great assistance to the community and make valuable products!
 - ADS Anhanguera Graduated - Brasília, DF
 - Bassist and South America juggler-traveller 🤹
 <details>
