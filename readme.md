@@ -11,7 +11,7 @@
   <summary>👋 Find me </summary>
 
 	We can share + talk about development, and also create really nice things together!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-modesto-196a161b7/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@amanmdest/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://acesse.one/linkedin-amanmdest) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@amanmdest/)
 </details>
 <div style="display: flex; justify-content: space-around;">
 <kbd><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJxZGw0amlpNHh6Mnk2YmJwbDJvcHg2b2R6YXZ5aGllNmxzYXBjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkCDv7CIK8d2M/giphy.gif" width="280" height="190" /></kbd>
