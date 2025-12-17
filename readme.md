@@ -2,8 +2,13 @@
 - Python enthusiastic.
 - FastApi and Django developer.
 - ADS Anhanguera Graduated - Brasília, DF
-- Bassist and South America juggler-traveller 🤹
-- português & english & español & studying ジャパニーズ in a not so 'upfront' way :)
+
+<details>
+	<summary> 🗣️ Languages </summary>
+	<ul>
+		<li>português & english & español & studying ジャパニーズ in a not so 'upfront' way :)</li>
+	</ul>
+</details>
 <details>
   <summary> 🛠️ Crafting! </summary>
 	
