@@ -1,7 +1,9 @@
 # Hello there! I'm Aman, aka manzí!
-- Mostly BackEnd development, and some FrontEnd.
+- Python enthusiastic.
+- FastApi and Django developer.
 - ADS Anhanguera Graduated - Brasília, DF
 - Bassist and South America juggler-traveller 🤹
+- português & english & español & studying ジャパニーズ in a not so 'upfront' way :)
 <details>
   <summary> 🛠️ Crafting! </summary>
 	
