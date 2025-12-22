@@ -1,4 +1,5 @@
 # Hello there! I'm Aman, aka manzí!
+
 - Python enthusiastic.
 - FastApi and Django developer.
 - ADS Anhanguera Graduated - Brasília, DF
