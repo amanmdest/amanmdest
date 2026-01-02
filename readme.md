@@ -1,8 +1,9 @@
-# Hello there! I'm Aman, aka manzí!
+### Hi! I'm Aman, make your self confortable.
+----------
 
-- Python enthusiastic.
-- FastApi and Django developer.
-- ADS Anhanguera Graduated - Brasília, DF
+- Software Product Developer
+- ADS(System Analysis and Development) Anhanguera Graduated - Brasília, DF
+- Python enthusiastic and Creative Epistemophile 📚🎸💻
 
 <details>
   <summary>👋 Find me </summary>
@@ -13,8 +14,11 @@
 <details>
 	<summary> 🗣️ People Languages </summary>
 	<ul>
-		<li> Português & English & Español</li>
-		<li> Français & 日本語 [📝studying in a not so "upfront" way]</li>
+		<li> Português</li>
+		<li> English</li>
+		<li> Español</li>
+		<li> Français(📝studying in a not so "upfront" way) </li>
+		<li> 日本語(📝studying in a not so "upfront" way) </li>
 	</ul>
 </details>
 <details>
@@ -37,3 +41,5 @@
 </details>
 <div style="display: flex; justify-content: space-around;">
 <kbd><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJxZGw0amlpNHh6Mnk2YmJwbDJvcHg2b2R6YXZ5aGllNmxzYXBjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkCDv7CIK8d2M/giphy.gif" width="280" height="190" /></kbd>
+	
+-----------
