@@ -1,18 +1,18 @@
-### Hi! I'm Aman, make your self confortable.
+### Hi! I'm Aman, have a sit make your self confortable.
 ----------
 
-- Backend Developer; Tech enthusiastic
-- ADS(System Analysis and Development) Anhanguera Graduated - Brasília, DF
-- Epistemophile active learner 📚🎸💻
+- 🏙️ Backend Development | Tech enthusiastic | Also some Frontend
+- 🎓 ADS(System Analysis and Development) Anhanguera Graduated - Brasília, DF
+- 🎸 Epistemophile active learner and creative
+- 🌐 Say hi on my social networks or send me an email so we can learn/ create together amanmdest@gmail.com.
 
 <details>
-  <summary>👋 Find me </summary>
-
-	We can share + talk about development, and also create really nice things together!
+  <summary> Discord y Linkedin 💬 </summary>
+	
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://acesse.one/linkedin-amanmdest) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@amanmdest/)
 </details>
 <details>
-	<summary> 🗣️ People Languages </summary>
+	<summary> People Languages 🗣️ </summary>
 	<ul>
 		<li> Português</li>
 		<li> English</li>
@@ -22,7 +22,7 @@
 	</ul>
 </details>
 <details>
-  <summary> 🖥️💭 Crafting (computer languages, universe and thinking) 🌐🛜 </summary>
+  <summary> Crafting (computer languages, universe and thinking) 🧑‍💻 </summary>
 	
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
