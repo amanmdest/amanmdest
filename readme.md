@@ -1,9 +1,9 @@
 ### Hi! I'm Aman, make your self confortable.
 ----------
 
-- Software Product Developer
+- Backend Developer; Tech enthusiastic
 - ADS(System Analysis and Development) Anhanguera Graduated - Brasília, DF
-- Python enthusiastic and Creative Epistemophile 📚🎸💻
+- Epistemophile active learner 📚🎸💻
 
 <details>
   <summary>👋 Find me </summary>
