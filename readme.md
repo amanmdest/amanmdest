@@ -1,28 +1,12 @@
-### Hi! I'm Aman, have a sit make your self confortable.
+### Hi! I'm Aman, have a sit make your self confortable. 🛋️
 ----------
 
-- 🏙️ Backend Development | Tech enthusiastic | Also some Frontend
-- 🎓 ADS(System Analysis and Development) Anhanguera Graduated - Brasília, DF
-- 🎸 Epistemophile active learner and creative
+- 🏙️ Python enthusiastic | Backend Developer 
+- 🎓 System Analysis and Development, Anhanguera Graduated - Brasília, DF 
 - 🌐 Say hi on my social networks or send me an email so we can learn/ create together amanmdest@gmail.com.
 
 <details>
-  <summary> Discord y Linkedin 💬 </summary>
-	
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://acesse.one/linkedin-amanmdest) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@amanmdest/)
-</details>
-<details>
-	<summary> People Languages 🗣️ </summary>
-	<ul>
-		<li> Português</li>
-		<li> English</li>
-		<li> Español</li>
-		<li> Français(📝studying in a not so "upfront" way) </li>
-		<li> 日本語(📝studying in a not so "upfront" way) </li>
-	</ul>
-</details>
-<details>
-  <summary> Crafting (computer languages, universe and thinking) 🧑‍💻 </summary>
+  <summary> 🧑‍💻 Crafting (computer languages, universe and thinking) </summary>
 	
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
@@ -39,6 +23,22 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 </details>
+<details>
+	<summary> 🗣️ People Languages </summary>
+	<ul>
+		<li> Português(Native)</li>
+		<li> English(Advanced)</li>
+		<li> Español(Upper Intermediate)</li>
+		<li> Français(Intermediate) </li>
+		<li> 日本語(Ultra-Basic) </li>
+	</ul>
+</details>
+<details>
+  <summary> Discord y Linkedin 💬 </summary>
+	
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://acesse.one/linkedin-amanmdest) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@amanmdest/)
+</details>
+
 <div style="display: flex; justify-content: space-around;">
 <kbd><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJxZGw0amlpNHh6Mnk2YmJwbDJvcHg2b2R6YXZ5aGllNmxzYXBjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkCDv7CIK8d2M/giphy.gif" width="280" height="190" /></kbd>
 	
