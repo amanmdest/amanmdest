@@ -3,7 +3,7 @@
 
 - 🏙️ Python enthusiastic | Backend Developer 
 - 🎓 System Analysis and Development, Anhanguera Graduated - Brasília, DF 
-- 🌐 Say hi on my social networks or send me an email so we can learn/ create together amanmdest@gmail.com.
+- 🌐 Say hi on my social networks or send me an email so we can learn and create together amanmdest@gmail.com.
 
 <details>
   <summary> 🧑‍💻 Crafting (computer languages, universe and thinking) </summary>
